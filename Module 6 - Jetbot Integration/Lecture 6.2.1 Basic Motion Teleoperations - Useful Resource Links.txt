@@ -1,0 +1,5 @@
+JetBot is an open-source robot based on NVIDIA Jetson Nano:
+https://jetbot.org/master/
+
+Balena IO is used to flash the Jetbot OS;
+https://www.balena.io/
